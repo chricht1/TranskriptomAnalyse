@@ -1,0 +1,1 @@
+Weekly exercises of master bioinformatics class "Transkriptomanalyse" in Martin-Luther-University Halle-Wittenberg in summer term 2025. Exercises where done in a group of two students with roughly equal contribution. Permission was garanted by all collaborators.
